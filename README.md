@@ -33,3 +33,11 @@
   - W/A/S/D - Передвижение
   - ЛКМ - Стрельба
   - Мышь - направление стрельбы
+
+####### Скриншоты
+![5397795467913458272](https://github.com/user-attachments/assets/bb80c349-06fa-438b-bf64-fa4d1f9bcb58)
+![5397795467913458272](https://github.com/user-attachments/assets/bb80c349-06fa-438b-bf64-fa4d1f9bcb58)
+
+![5397795467913458271](https://github.com/user-attachments/assets/d2aa2efb-d569-4809-bbdf-6cba22ab5827)
+![5397795467913458271](https://github.com/user-attachments/assets/d2aa2efb-d569-4809-bbdf-6cba22ab5827)
+
