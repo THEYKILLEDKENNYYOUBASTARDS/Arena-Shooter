@@ -37,9 +37,11 @@
 
 ##### Скриншоты
 
+  ![5397795467913458272](https://github.com/user-attachments/assets/1c3afac8-e7cc-40c0-9e2e-22080268219d)
+
   ![5397795467913458271](https://github.com/user-attachments/assets/8f7db106-dd37-49d7-92b5-83848131efa8)
 
-  ![5397795467913458272](https://github.com/user-attachments/assets/1c3afac8-e7cc-40c0-9e2e-22080268219d)
+
 
 
   
